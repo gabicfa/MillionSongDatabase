@@ -1,4 +1,4 @@
-# MillionSongDatabase
+# million-song-database
 
 <img src="https://github.com/marcelogdeandrade/MillionSongDatabase/blob/master/images/dashboard.png" alt="drawing" width="800"/>
 
