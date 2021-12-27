@@ -1,4 +1,4 @@
-# million-song-database
+# Million song database
 
 <img src="https://github.com/marcelogdeandrade/MillionSongDatabase/blob/master/images/dashboard.png" alt="drawing" width="800"/>
 
@@ -14,3 +14,5 @@ Analyzes can also be done using the python scripts from the `python_scripts/` fo
 The dashboard was made using the React frontend framework, based on the Razzle boilerplate. To import the data, we hosted the data analysis output file in the service [mysjon](http://myjson.com/), change the link being imported in the Home component to change the dashboard input data.
 
 To run the dashboard, go into the Dashboard directory and run `$npm install` to install the necessary dependencies. Then run `$npm start` to start the project. To run the production version, run the project build with `$npm run build` and then `$npm run start:prod`
+
+Created at 2017.1
